@@ -19,3 +19,6 @@ Completar el ciclo básico con Git y GitHub:
 git config --global user.name  "Tu Nombre"
 git config --global user.email "tu_correo@ejemplo.com"
 git config --global init.defaultBranch main
+
+
+Logramos crear un repositorio para GitHub donde pude subir mis archivos y podre subir mis practicas
