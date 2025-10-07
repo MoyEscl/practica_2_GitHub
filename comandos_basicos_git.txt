@@ -2,6 +2,7 @@
 # Taller – Git & GitHub (flujo individual, sin ramas)
 Nombre: Moises Escandón Lozano
 Matrícula: 2243031416
+Edad: 19
 
 ====================================================================
 0) AYUDA RÁPIDA (para cuando te trabes)
