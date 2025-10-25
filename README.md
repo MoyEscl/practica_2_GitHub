@@ -1,5 +1,7 @@
 # Práctica: Git & GitHub (flujo individual, sin ramas)
 
+# se actualizo
+
 **Objetivo:**  
 Completar el ciclo básico con Git y GitHub:
 1) Clonar el repo del profesor,
