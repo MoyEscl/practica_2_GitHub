@@ -1,7 +1,13 @@
 # COMANDOS BÁSICOS DE GIT
 # Taller – Git & GitHub (flujo individual, sin ramas)
+<<<<<<< HEAD
 Nombre: Moises Escandón
 Matrícula: 2243031416
+=======
+Nombre: Moises Escandón Lozano
+Matrícula: 2243031416
+Edad: 19
+>>>>>>> c70e066800f66e8403f674f6f03090d7b7d11c9d
 
 ====================================================================
 0) AYUDA RÁPIDA (para cuando te trabes)
